@@ -1,9 +1,8 @@
 # Korean morphological analysis(한국어 형태소 분석)
 
-This repository is for training-base Korean morphological analyzer.
+This repository is for training-base Korean morphological analyzers.
 
-본 저장소는 학습 기반 한국어 형태소 분석을 위한 저장소 입니다.
-
+본 저장소는 학습 기반 한국어 형태소 분석기들을 위한 저장소 입니다.
 
 
 # Pre-trained large language model (PLM) based Korean morphological analyzer
