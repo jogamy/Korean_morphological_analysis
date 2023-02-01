@@ -5,16 +5,10 @@ This repository is for training-base Korean morphological analyzers.
 본 저장소는 학습 기반 한국어 형태소 분석기들을 위한 저장소 입니다.
 
 
-# Pre-trained large language model (PLM) based Korean morphological analyzer
+# Approach 1: Compund tag labeling -> Post processing
 
 
-
-# Pre-analyzed dictionary based Korean moprhological analyzer
-
+# Approach 2: Morpheme processing -> POS tagging
 
 
-# Autoregressive (AR) decoder based Korean morphological analyzer
-
-
-
-# Non-autoregressive (NAR) decoder based Korean morphological analyzer
+# Appraoch 3: Generation
