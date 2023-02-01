@@ -8,7 +8,12 @@ This repository is for training-base Korean morphological analyzers.
 # Approach 1: Compund tag labeling -> Post processing
 
 
+
 # Approach 2: Morpheme processing -> POS tagging
 
 
 # Appraoch 3: Generation
+
+Korean Morphological Analysis with Tied Sequence-to-Sequence Multi-Task Model(ACL 2019)
+
+
