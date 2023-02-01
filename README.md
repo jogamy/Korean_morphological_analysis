@@ -14,6 +14,6 @@ This repository is for training-base Korean morphological analyzers.
 
 # Appraoch 3: Generation
 
-Korean Morphological Analysis with Tied Sequence-to-Sequence Multi-Task Model(ACL 2019)
+[EMNLP 2019]Korean Morphological Analysis with Tied Sequence-to-Sequence Multi-Task Model
 
 
